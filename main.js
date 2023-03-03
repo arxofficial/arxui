@@ -987,6 +987,6 @@ StyleSheet.merge({
     'position': 'sticky'
   },
   '.text-white': {
-    'color': 'white'
+    'color': StyleSheet.colors.rgb(255, 255, 255)
   }
 })
