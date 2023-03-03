@@ -985,5 +985,8 @@ StyleSheet.merge({
   },
   '.sticky': {
     'position': 'sticky'
+  },
+  '.text-white': {
+    'color': 'white'
   }
 })
