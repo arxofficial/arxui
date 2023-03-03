@@ -974,6 +974,9 @@ StyleSheet.merge({
   '.font-serif': {
     'font-family': 'serif'
   },
+  '.mx-auto': {
+    'margin': '0 auto'
+  },
   '.relative': {
     'position': 'relative'
   },
